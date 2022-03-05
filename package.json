@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-jwt": "^4.0.3",
+    "koa-route": "^3.2.0",
+    "uuid": "^8.3.2"
+  }
+}
